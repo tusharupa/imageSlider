@@ -1,6 +1,6 @@
-#Image slider 
+# Image Carousal 
 
-## :point_right:[Live Demo]
+## :point_right:[Live Demo](https://tusharupa.github.io/imageSlider/)
 
 ### simple image carousal made with html css javascript
 
